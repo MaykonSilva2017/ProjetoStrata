@@ -1,2 +1,4 @@
 # ProjetoStrata
+
+Projeto do curso
  
