@@ -23,6 +23,13 @@ a:hover{
 
 }
 
+.h2-main-content-section{
+
+    font-family: 'Tapestry', cursive;
+    font-size: 40px;
+
+}
+
 p{
     margin: 0 0 2em;
 
@@ -42,6 +49,7 @@ h1, h2, h3, h4, h5, h6{
 
 h1{
     font-size: 36px;
+    
 
 }
 
@@ -307,6 +315,7 @@ textarea{
     color: white;
     font-weight: normal;
     color: rgba(255, 255, 255, .5);
+    list-style: none;
     
 
 
@@ -372,6 +381,7 @@ textarea{
 
 
 .main-footer{
+
     position: fixed;
     bottom: 0;
     width: 35%;
