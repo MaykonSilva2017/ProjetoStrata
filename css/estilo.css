@@ -13,8 +13,12 @@ a{
     text-decoration: none;
     border-bottom: 1px dotted;
     color: #49bf9d;
+    
+  
 
 }
+
+
 
 a:hover{
 
@@ -22,6 +26,9 @@ a:hover{
 
 
 }
+
+
+
 
 .h2-main-content-section{
 
@@ -452,6 +459,7 @@ textarea{
     margin-left: .5em;
 
 }
+
 
 /* Grid */
 
